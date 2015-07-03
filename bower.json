@@ -1,0 +1,24 @@
+{
+  "name": "gridfroms.coffee",
+  "version": "1.0.0",
+  "homepage": "https://github.com/leventekk/gridforms-coffee",
+  "authors": [
+    "Levente Kiraly <hello@leventekk.com>"
+  ],
+  "main": ["./dist/gridfroms.css", "./dist/gridfroms.js"],
+  "description": "Gridforms.js written in coffee without jQuery dependency.",
+  "keywords": [
+    "Responsive",
+    "Grid",
+    "Forms",
+    "Coffee"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
